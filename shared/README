@@ -1,0 +1,3 @@
+This directory/package is a place for common pieces of code, 
+to be used by more than one client script, 
+but not generic enough to be part of the library.
