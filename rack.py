@@ -1,6 +1,6 @@
 from sysadmin.myshell import run
 
-from bcolors import bcolors
+from sysadmin.bcolors import bcolors
 
 
 class Rack(object):

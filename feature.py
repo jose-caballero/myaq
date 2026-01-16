@@ -1,6 +1,6 @@
 import re
 
-from bcolors import bcolors
+from sysadmin.bcolors import bcolors
 from sysadmin.myshell import run
 from myaq.personality import Personality, PersonalityList
 from myaq.archetype import Archetype, ArchetypeList

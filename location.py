@@ -1,7 +1,7 @@
 import os
 import time
 
-from bcolors import bcolors
+from sysadmin.bcolors import bcolors
 from sysadmin.myshell import run, call
 
 from myaq.myaqexceptions import NoSandboxException, SandboxNameTooLong

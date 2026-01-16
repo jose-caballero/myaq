@@ -2,7 +2,7 @@ import os
 import re
 import time
 
-from bcolors import bcolors
+from sysadmin.bcolors import bcolors
 from sysadmin.myshell import run
 
 from myaq.archetype import Archetype

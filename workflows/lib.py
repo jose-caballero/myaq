@@ -3,7 +3,7 @@
 import os
 import sys
 
-from bcolors import printerror, printwarning
+from sysadmin.bcolors import printerror, printwarning
 from myaq.location import Sandbox
 from myaq.host import Host
 from myaq.workflows import exceptions

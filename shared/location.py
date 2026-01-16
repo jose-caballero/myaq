@@ -5,7 +5,7 @@ import os
 import shutil
 import sys
 
-from bcolors import bcolors, colorprint
+from sysadmin.bcolors import bcolors, colorprint
 from myaq.location import SandboxHandler, Location
 from sysadmin.myshell import call
 

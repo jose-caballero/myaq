@@ -1,4 +1,4 @@
-from bcolors import bcolors
+from sysadmin.bcolors import bcolors
 from sysadmin.myshell import run
 
 class Archetype(object):
